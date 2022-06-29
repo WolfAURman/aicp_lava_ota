@@ -1,13 +1,24 @@
 {
   "response": [
     {
-      "datetime": 1230764400,
-      "filename": "ota-package.zip",
-      "id": "5eb63bbbe01eeed093cb22bb8f5acdc3",
-      "romtype": "nightly",
-      "size": 314572800,
-      "url": "https://example.com/ota-package.zip",
-      "version": "14.0"
+        "maintainer": "Krell RHEL (WolfAURman)",
+        "oem": "Xiaomi",
+        "device": "Redmi 9",
+        "filename": "aicp_lava_r-16.1-UNOFFICIAL-20220629.zip",
+        "download": "https://github.com/WolfAURman/crdroid_ota_update/releases/download/crDroidAndroid-11.0-20220615-lava-v7.19/crDroidAndroid-11.0-20220615-lava-v7.19.zip",
+        "timestamp": 1656497138,
+        "md5": "7c2e8f8955883cc785a67aaa547073360ac55c52fbad5cfb14bf1bd7853ee97e",
+        "size": 950443441,
+        "version": "16.1",
+        "buildtype": "Monthly",
+        "forum": "https://t.me/WolfAURman_Discussion",
+        "gapps": "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-R/18-Apr-2022/NikGapps-core-arm64-11-20220418-signed.zip/download",
+        "firmware": "",
+        "modem": "",
+        "bootloader": "",
+        "recovery": "",
+        "paypal": "",
+        "telegram": "https://t.me/red_hat_interprise13"
     }
   ]
 }
